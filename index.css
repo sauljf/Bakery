@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+* {
+  margin: 0.3rem;
+  padding: 0.2rem;
+  box-sizing: border-box;
+}
+aside {
+  background-color: #f4f4f4;
+  display: flex;
+}
+.testimonial {
+  background-color: #e2e2e2;
+}
+footer {
+  background-color: bisque;
+}
+header {
+  display: flex;
+}
+main {
+  flex: 1;
+  display: flex;
+  gap: 1ch;
+}
